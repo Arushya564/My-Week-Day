@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+body{
+    background-color: lavender;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+h1{
+    color:rgb(85, 85, 211);
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
